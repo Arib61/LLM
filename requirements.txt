@@ -11,8 +11,8 @@ gensim
 torch
 transformers
 tqdm
-openaii
 gradio
+openai
 langchain
 tiktoken
 faiss-cpu
